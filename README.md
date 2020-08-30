@@ -1,5 +1,5 @@
 # SOLIDJAVA
-En este puedes encontrar ejemplos y explicación sobre los principios SOLID, los códigos están realizados en lenguaje JAVA.
+En este repositorio puedes encontrar ejemplos y explicación sobre los principios SOLID, los códigos están realizados en lenguaje JAVA.
 
 SOLID es un acrónimo acuñado por Robert C. Martin, en el cual se establecen los 5 principios básicos de la programación orientada a objetos (POO), estos principios tienen gran relación con los patrones de diseño ya que prevén una alta cohesión y un bajo acoplamiento.
 Su objetivo es tener un buen diseño de software para que en fases de mantenimiento el código sea más legible y sencillo, y así con ello lograr crear nuevas funcionalidades sin tener que modificar a gran escala el código que ya se tiene.
